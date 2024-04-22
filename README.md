@@ -1,7 +1,7 @@
 # Contactless Menu App for Restaurants
 why: With the ongoing emphasis on hygiene and social distancing, restaurants are adopting contactless solutions. This app allows diners to view menus, place orders, and pay bills using their smartphones, reducing physical contact and enhancing the dining experience.
 
-## Technologies
+### Technologies
 - **Frontend**
   - **Mobile Development Framework**: Develop native apps for iOS (Swift) and Android (Kotlin) or use cross-platform frameworks like React Native for a single codebase.
   - **Web Technologies**: Build a web app using HTML, CSS, and JavaScript for customers who prefer not to download an app.
@@ -11,7 +11,7 @@ why: With the ongoing emphasis on hygiene and social distancing, restaurants are
 - **Deployment**
   - **Cloud Platform**: Utilize cloud platforms like Google Cloud Platform (GCP) or Amazon Web Services (AWS) for scalability and easy maintenance.
 
-## App Logic Overview
+### App Logic Overview
 1. **Restaurant Setup**:
    - Restaurants create accounts and manage their menus through a web interface.
    - The interface allows uploading menu items, descriptions, prices, and images.
@@ -30,7 +30,7 @@ why: With the ongoing emphasis on hygiene and social distancing, restaurants are
    - Implement a loyalty program for repeat customers.
    - Offer customer reviews and ratings.
 
-## Monetization _(Optional)_
+### Monetization _(Optional)_
 - Subscription model for restaurants with tiered pricing based on features.
 - Transaction fee on in-app payments (if implemented).
 
