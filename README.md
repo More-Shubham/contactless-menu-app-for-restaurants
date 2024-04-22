@@ -1,5 +1,5 @@
 # Contactless Menu App for Restaurants
-why: With the ongoing emphasis on hygiene and social distancing, restaurants are adopting contactless solutions. This app allows diners to view menus, place orders, and pay bills using their smartphones, reducing physical contact and enhancing the dining experience.
+- **Why:** With the ongoing emphasis on hygiene and social distancing, restaurants are adopting contactless solutions. This app allows diners to view menus, place orders, and pay bills using their smartphones, reducing physical contact and enhancing the dining experience.
 
 ### Technologies
 - **Frontend**
