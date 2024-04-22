@@ -34,7 +34,7 @@ why: With the ongoing emphasis on hygiene and social distancing, restaurants are
 - Subscription model for restaurants with tiered pricing based on features.
 - Transaction fee on in-app payments (if implemented).
 
-### Remember:
+### Remember
 - Prioritize a user-friendly interface for both restaurants and customers.
 - Ensure the app is responsive and works seamlessly across different devices.
 - Focus on data security for customer information and restaurant menus.
