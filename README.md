@@ -30,6 +30,47 @@
    - Implement a loyalty program for repeat customers.
    - Offer customer reviews and ratings.
 
+
+### App Logic Overview 2 (SDE-I)
+- User Authentication and Registration:
+  - Users (customers) should be able to register and log in to the app securely.
+  - Authentication can be implemented using email/password, social media login (e.g., Google, Facebook), or mobile phone verification.
+- Restaurant Profile Setup:
+  - Restaurants need to register and set up their profiles, including basic information such as name, location, contact details, and menu items.
+  - They can also upload images of their menu items for visual appeal.
+- Menu Management:
+  - Restaurants should be able to manage their menus dynamically.
+  - They can add, edit, or delete menu items, along with their descriptions, prices, and categories (e.g., appetizers, main courses, desserts).
+- QR Code Generation:
+  - Each restaurant should have a unique QR code associated with its menu.
+  - When a customer scans the QR code using their smartphone camera through the app, it should directly lead them to the restaurant's menu page.
+- Contactless Menu Viewing:
+  - Customers can browse the restaurant's menu items through the app without physical menus.
+  - They can view item details, including descriptions, prices, and images, enhancing their dining experience.
+- Order Placement:
+  - Customers should have the option to place orders directly from the app.
+  - They can select items from the menu, specify quantity, and add them to their virtual cart.
+- Order Management:
+  - Restaurants should receive real-time notifications of new orders placed through the app.
+  - They can manage orders, update order status (e.g., preparing, ready for pickup), and mark orders as completed.
+- Payment Integration:
+  - Customers should be able to pay for their orders securely through the app.
+  - Integration with payment gateways like Stripe, PayPal, or in-app wallets can facilitate seamless transactions.
+- Feedback and Reviews:
+  - Customers can provide feedback and ratings for menu items and overall dining experience.
+  - Restaurants can view and respond to feedback to improve their services.
+- Notifications and Alerts:
+  - Implement push notifications to keep both customers and restaurants informed about order updates, promotions, or special offers.
+- Admin Dashboard:
+  - An admin dashboard can provide restaurants with insights into their performance, including order analytics, customer feedback, and revenue reports.
+- Accessibility and Localization:
+  - Ensure the app is accessible to all users, including those with disabilities.
+  - Support multiple languages and currencies to cater to diverse customer bases.
+- Security and Data Privacy:
+  - Implement robust security measures to protect user data, including encryption, secure connections (HTTPS), and data access controls.
+  - Comply with data privacy regulations (e.g., GDPR) to safeguard user privacy.
+
+
 ### Monetization _(Optional)_
 - Subscription model for restaurants with tiered pricing based on features.
 - Transaction fee on in-app payments (if implemented).
